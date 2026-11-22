@@ -2,7 +2,7 @@
 
 **A RAG assistant that answers questions about company annual reports, with page citations and a calculator tool.**
 
-🔗 **Live demo:** *(link added after deployment)*
+🔗 **Live demo:** [finsight-ai.streamlit.app](https://finsight-ai-ndhcqwtu5gbdoqvzdav5gb.streamlit.app/) (12 reports from FinanceBench)
 
 ![FinSight AI](images/screenshot1.png)
 
