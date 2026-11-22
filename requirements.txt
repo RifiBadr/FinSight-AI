@@ -1,0 +1,11 @@
+pymupdf
+sentence-transformers
+rank-bm25
+numpy
+openai
+python-dotenv
+fastapi
+uvicorn[standard]
+streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
